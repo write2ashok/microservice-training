@@ -1,0 +1,8 @@
+com\fis\ms\controller\response\ConstructResponseEntity.class
+com\fis\ms\controller\SubscriptionController.class
+com\fis\ms\SubscriptionAPIApplication.class
+com\fis\ms\controller\response\ApiResponse.class
+com\fis\ms\repository\SubscriptionRepository.class
+com\fis\ms\model\Subscription.class
+com\fis\ms\service\SubscriptionService.class
+com\fis\ms\service\SubscriptionServiceImpl.class
